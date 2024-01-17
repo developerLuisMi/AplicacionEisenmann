@@ -58,41 +58,4 @@ function Navbar() {
 }
 
 export default Navbar;
-
-/*import { Link, Outlet } from "react-router-dom";
-
-const Navbar = () => {
-  return (
-    <header className="navbar1">
-      <div>
-        <nav className="navbar2">
-          <ul>
-            <li className="navbrand">
-              <Link to="/Inicio" className="navlink1">
-                EISENMANN
-              </Link>
-            </li>
-            <li>
-              <Link to="/Inicio" className="navlink1">
-                Inicio
-              </Link>
-            </li>
-            <li>
-              <Link to="/Servicios" className="navlink1">
-                Servicios
-              </Link>
-            </li>
-            <li>
-              <Link to="/Contactos" className="navlink1">
-                Contactos
-              </Link>
-            </li>
-          </ul>
-        </nav>
-      </div>
-      <Outlet />
-    </header>
-  );
-};
-
-export default Navbar;*/
+//codigo arreglado navbar
